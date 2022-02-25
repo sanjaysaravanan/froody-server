@@ -1,0 +1,165 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "title": "Masalas, Nuts & Spices",
+      "imageUrl": "http://192.168.0.140:3000/catalog-images/Masalas-Nuts-_-Spices-1024x1024.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Oils & Vinegar",
+      "imageUrl": "http://192.168.0.140:3000/catalog-images/Oils-_-Vinegars-1024x1024.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Pastas & Noodles",
+      "imageUrl": "http://192.168.0.140:3000/catalog-images/Pastas-_-Noodles-1024x1024.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tinned & Processed Food",
+      "imageUrl": "http://192.168.0.140:3000/catalog-images/Tinned-Products-1024x1024.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cakes & Bakes",
+      "imageUrl": "http://192.168.0.140:3000/catalog-images/Cakes-_-Bakes-1024x1024.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Beverages & Tea",
+      "imageUrl": "http://192.168.0.140:3000/catalog-images/Beverages-_-Tea-1024x1024.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Coconut Products",
+      "imageUrl": "http://192.168.0.140:3000/catalog-images/Coconut-products-1024x1024.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Honey",
+      "imageUrl": "http://192.168.0.140:3000/catalog-images/hoNEY-1024x1024.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Flavours & Seasoning",
+      "imageUrl": "http://192.168.0.140:3000/catalog-images/Flavours-_-Seasoning-1024x1024.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Ready to Fry",
+      "imageUrl": "http://192.168.0.140:3000/catalog-images/Ready-to-fry-1024x1024.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Syrups, Crushes & Squashes",
+      "imageUrl": "http://192.168.0.140:3000/catalog-images/Syrups-_-Squashes-1024x1024.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Sauces, Dips & Spreads",
+      "imageUrl": "http://192.168.0.140:3000/catalog-images/Sauces-Dips-_-Spreads-1024x1024.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "catId": 1,
+      "name": "Everest Kitchen King Masala 100g",
+      "pricePerUnit": "₹40",
+      "pricePerCase": "₹400",
+      "thumbnailUrl": "http://192.168.0.140:3000/products/kitchen-king.jpg"
+    },
+    {
+      "id": 2,
+      "catId": 1,
+      "name": "Everest Chana Masala 100g",
+      "pricePerUnit": "₹100",
+      "pricePerCase": "₹1000",
+      "thumbnailUrl": "http://192.168.0.140:3000/products/chana.jpg"
+    },
+    {
+      "id": 3,
+      "catId": 1,
+      "name": "Everest Chicken Masala 100g",
+      "pricePerUnit": "₹80",
+      "pricePerCase": "₹800",
+      "thumbnailUrl": "http://192.168.0.140:3000/products/chicken.jpg"
+    },
+    {
+      "id": 4,
+      "catId": 1,
+      "name": "Everest Chole Masala 100g",
+      "pricePerUnit": "₹40",
+      "pricePerCase": "₹400",
+      "thumbnailUrl": "http://192.168.0.140:3000/products/Chole-Masala.jpg"
+    },
+    {
+      "id": 5,
+      "catId": 1,
+      "name": "Everest Chunky Chat Masala 100g",
+      "pricePerUnit": "₹90",
+      "pricePerCase": "₹900",
+      "thumbnailUrl": "http://192.168.0.140:3000/products/Chunky-Chat.jpg"
+    },
+    {
+      "id": 6,
+      "catId": 1,
+      "name": "Everest Mutton Masala 100g",
+      "pricePerUnit": "₹50",
+      "pricePerCase": "₹500",
+      "thumbnailUrl": "http://192.168.0.140:3000/products/mutton.jpg"
+    },
+    {
+      "id": 7,
+      "catId": 1,
+      "name": "Everest Meat Masala 100g",
+      "pricePerUnit": "₹70",
+      "pricePerCase": "₹700",
+      "thumbnailUrl": "http://192.168.0.140:3000/products/meat.png"
+    },
+    {
+      "id": 8,
+      "catId": 1,
+      "name": "Everest Kitchen Masala 100g",
+      "pricePerUnit": "₹40",
+      "pricePerCase": "₹400",
+      "thumbnailUrl": "http://192.168.0.140:3000/products/kitchen-king.jpg"
+    },
+    {
+      "id": 9,
+      "catId": 10,
+      "name": "Happima Fried Rice Masala 100g",
+      "pricePerUnit": "₹38",
+      "pricePerCase": "₹350",
+      "thumbnailUrl": "http://192.168.0.140:3000/products/happima.jpg"
+    },
+    {
+      "id": 10,
+      "catId": 10,
+      "name": "Happima Fry Mix 500g",
+      "pricePerUnit": "₹138",
+      "pricePerCase": "₹1000",
+      "thumbnailUrl": "http://192.168.0.140:3000/products/fry-mix.jpg"
+    },
+    {
+      "id": 11,
+      "catId": 10,
+      "name": "Happima Fry Mix 1000g",
+      "pricePerUnit": "₹250",
+      "pricePerCase": "₹2000",
+      "thumbnailUrl": "http://192.168.0.140:3000/products/fry-mix.jpg"
+    },
+    {
+      "id": 12,
+      "catId": 10,
+      "name": "Habit Panko Bread Crumbs 1kg",
+      "pricePerUnit": "₹250",
+      "pricePerCase": "₹2000",
+      "thumbnailUrl": "http://192.168.0.140:3000/products/bread-crumbs.jpg"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
